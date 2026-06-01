@@ -63,5 +63,4 @@ This project demonstrates my ability to:
 git clone https://github.com/Chris-Koelsch/Kaggle-Digit-Recognizer.git
 cd Kaggle-Digit-Recognizer
 
-The model is a **deep CNN** designed to extract hierarchical spatial features:
 
