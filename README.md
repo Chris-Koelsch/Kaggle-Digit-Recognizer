@@ -1,18 +1,17 @@
-# Kaggle-Digit-Recognizer
-# 🧠 Kaggle Digit Recognizer (CNN with TensorFlow)
+# Kaggle Digit Recognizer (CNN Model Using TensorFlow Keras Library)
 
-This project is an end-to-end **computer vision classification pipeline** built for Kaggle’s **Digit Recognizer** competition.  
-The goal is to correctly classify handwritten digits (0–9) using a **Convolutional Neural Network (CNN)** trained on the MNIST-style dataset.
+This project is an end-to-end computer vision number classification pipeline.  
+The goal is to correctly classify handwritten digits (0–9) using a CNN trained on the MNIST-style dataset.
 
 This project demonstrates my ability to:
-- Build and train deep learning models using **TensorFlow / Keras**
+- Build and train deep learning models using TensorFlow / Keras
 - Perform image preprocessing and augmentation
 - Design CNN architectures for multi-class classification
 - Evaluate model performance and generate predictions for submission
 
 ---
 
-## 📌 Project Overview
+## Overview
 
 - **Problem Type:** Multi-class image classification
 - **Dataset:** Kaggle Digit Recognizer (28×28 grayscale handwritten digits)
@@ -22,7 +21,7 @@ This project demonstrates my ability to:
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 - **Training Data (`train.csv`)**
   - 42,000 labeled images
@@ -35,9 +34,9 @@ This project demonstrates my ability to:
 
 ---
 
-## 🏗️ Model Architecture
+## Model Architecture
 
-### Key Design Choices
+### Design Choices
 - **Batch Normalization** for training stability
 - **Data Augmentation** to improve generalization
 - **Global Average Pooling** to reduce overfitting
@@ -46,7 +45,7 @@ This project demonstrates my ability to:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **TensorFlow / Keras**
@@ -57,7 +56,7 @@ This project demonstrates my ability to:
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1️⃣ Clone the repository
 ```bash
